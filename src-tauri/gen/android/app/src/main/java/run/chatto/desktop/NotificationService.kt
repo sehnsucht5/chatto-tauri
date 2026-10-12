@@ -36,7 +36,7 @@ class NotificationService : Service() {
         private const val CHANNEL_ID = "chatto_foreground"
         private const val NOTIF_CHANNEL_ID = "chatto_messages"
         private const val FOREGROUND_NOTIF_ID = 1
-        private const val DEFAULT_SERVER_URL = "https://chat.chatto.run"
+        private const val DEFAULT_SERVER_URL = "https://chat.556626.xyz"
         private const val MAX_RECONNECT_DELAY_MS = 60_000L
 
         // One static client frame, small enough to
